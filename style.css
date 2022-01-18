@@ -9,10 +9,13 @@ body {
   background-color: #d3b99f;
 }
 
-/*Header styling*/
-header {
+/*Header and Footer styling*/
+header,
+footer {
   background-color: #9aadbf;
   padding: 30px;
+  margin: 0;
+  height: 100%;
 }
 
 /*Horizontal */
@@ -106,10 +109,4 @@ hr {
 
 a:hover {
   color: #9aadbf;
-}
-
-/*Footer styling*/
-footer {
-  background-color: #9aadbf;
-  padding: 30px;
 }
