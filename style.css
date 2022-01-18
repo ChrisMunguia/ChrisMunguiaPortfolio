@@ -99,15 +99,16 @@ hr {
 /*Styling for list items in contact list*/
 .contact-list li {
   display: inline-block;
-  padding: 10px 40px;
+  padding: 10px 80px;
 }
 
 /*Styling for anchors in contact list*/
 .contact-list a {
   font-weight: bold;
-  color: #6d98ba;
+  font-size: 20px;
+  color: #306fa0;
 }
 
 a:hover {
-  color: #9aadbf;
+  color: rgb(128, 171, 206);
 }
