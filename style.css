@@ -6,6 +6,8 @@
 
 /*Body styling*/
 body {
+  margin: 0;
+  padding: 0;
   background-color: #d3b99f;
 }
 
@@ -14,8 +16,6 @@ header,
 footer {
   background-color: #9aadbf;
   padding: 30px;
-  margin: 0;
-  height: 100%;
 }
 
 /*Horizontal */
