@@ -106,9 +106,11 @@ hr {
 .contact-list a {
   font-weight: bold;
   font-size: 20px;
-  color: #306fa0;
+  background-color: rgba(80, 105, 112, 0.25);
+  border: 2px solid #306fa0;
+  padding: 5px;
 }
 
 a:hover {
-  color: rgb(128, 171, 206);
+  color: #7a393d;
 }
